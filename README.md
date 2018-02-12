@@ -8,6 +8,16 @@ Uses Concurrency & Callable Classes For Querying Data From FreeGeoIP.net
 Built & Compiled With JDK9 & JRE9
 
 
+## Usage
+
+Primarily Built For Windows (Uses NETSTAT Command Line Tool)
+
+Must Have Google Static Maps API Key To See Map In Generated URL Output
+
+You Can Follow The Link Below To Google Static Maps API To Obtain One
+
+Run With No Arguments For Typical Usage
+
 Run With Command Line Argument "DEBUG" To Print Logs To C:/Logs/GeoIP.txt 
 
 (Change File Name If Different Log Location Desired)
